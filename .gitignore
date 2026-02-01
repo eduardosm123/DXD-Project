@@ -25,3 +25,6 @@ dist-ssr
 
 # Jujutsu VCS
 .jj/
+
+# Husky
+.husky/_

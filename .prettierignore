@@ -1,0 +1,25 @@
+# Build outputs
+dist
+dist-ssr
+build
+coverage
+.nyc_output
+
+# Dependencies
+node_modules
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+
+# Cache
+.cache
+.vite
+.vitest
+*.tsbuildinfo
+
+# Misc
+*.min.js
+*.min.css
+public/
+.jj/
+.git/
